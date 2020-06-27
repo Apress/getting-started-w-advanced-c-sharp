@@ -1,0 +1,11 @@
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAP\bin\Debug\netcoreapp3.0\UsingTAP.exe
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAP\bin\Debug\netcoreapp3.0\UsingTAP.deps.json
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAP\bin\Debug\netcoreapp3.0\UsingTAP.runtimeconfig.json
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAP\bin\Debug\netcoreapp3.0\UsingTAP.runtimeconfig.dev.json
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAP\bin\Debug\netcoreapp3.0\UsingTAP.dll
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAP\bin\Debug\netcoreapp3.0\UsingTAP.pdb
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAP\obj\Debug\netcoreapp3.0\UsingTAP.csprojAssemblyReference.cache
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAP\obj\Debug\netcoreapp3.0\UsingTAP.AssemblyInfoInputs.cache
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAP\obj\Debug\netcoreapp3.0\UsingTAP.AssemblyInfo.cs
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAP\obj\Debug\netcoreapp3.0\UsingTAP.dll
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAP\obj\Debug\netcoreapp3.0\UsingTAP.pdb

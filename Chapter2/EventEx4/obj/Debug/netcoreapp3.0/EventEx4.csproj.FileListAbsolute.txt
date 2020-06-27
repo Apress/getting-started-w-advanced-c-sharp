@@ -1,0 +1,11 @@
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx4\obj\Debug\netcoreapp3.0\EventEx4.AssemblyInfoInputs.cache
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx4\obj\Debug\netcoreapp3.0\EventEx4.AssemblyInfo.cs
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx4\bin\Debug\netcoreapp3.0\EventEx4.exe
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx4\bin\Debug\netcoreapp3.0\EventEx4.deps.json
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx4\bin\Debug\netcoreapp3.0\EventEx4.runtimeconfig.json
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx4\bin\Debug\netcoreapp3.0\EventEx4.runtimeconfig.dev.json
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx4\bin\Debug\netcoreapp3.0\EventEx4.dll
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx4\bin\Debug\netcoreapp3.0\EventEx4.pdb
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx4\obj\Debug\netcoreapp3.0\EventEx4.dll
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx4\obj\Debug\netcoreapp3.0\EventEx4.pdb
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx4\obj\Debug\netcoreapp3.0\EventEx4.csprojAssemblyReference.cache

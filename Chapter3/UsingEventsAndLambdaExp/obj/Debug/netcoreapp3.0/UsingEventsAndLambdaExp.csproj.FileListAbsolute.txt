@@ -1,0 +1,11 @@
+E:\MyPrograms\AdvancedCSharpSolution\UsingEventsAndLambdaExp\obj\Debug\netcoreapp3.0\UsingEventsAndLambdaExp.AssemblyInfoInputs.cache
+E:\MyPrograms\AdvancedCSharpSolution\UsingEventsAndLambdaExp\obj\Debug\netcoreapp3.0\UsingEventsAndLambdaExp.AssemblyInfo.cs
+E:\MyPrograms\AdvancedCSharpSolution\UsingEventsAndLambdaExp\bin\Debug\netcoreapp3.0\UsingEventsAndLambdaExp.exe
+E:\MyPrograms\AdvancedCSharpSolution\UsingEventsAndLambdaExp\bin\Debug\netcoreapp3.0\UsingEventsAndLambdaExp.deps.json
+E:\MyPrograms\AdvancedCSharpSolution\UsingEventsAndLambdaExp\bin\Debug\netcoreapp3.0\UsingEventsAndLambdaExp.runtimeconfig.json
+E:\MyPrograms\AdvancedCSharpSolution\UsingEventsAndLambdaExp\bin\Debug\netcoreapp3.0\UsingEventsAndLambdaExp.runtimeconfig.dev.json
+E:\MyPrograms\AdvancedCSharpSolution\UsingEventsAndLambdaExp\bin\Debug\netcoreapp3.0\UsingEventsAndLambdaExp.dll
+E:\MyPrograms\AdvancedCSharpSolution\UsingEventsAndLambdaExp\bin\Debug\netcoreapp3.0\UsingEventsAndLambdaExp.pdb
+E:\MyPrograms\AdvancedCSharpSolution\UsingEventsAndLambdaExp\obj\Debug\netcoreapp3.0\UsingEventsAndLambdaExp.dll
+E:\MyPrograms\AdvancedCSharpSolution\UsingEventsAndLambdaExp\obj\Debug\netcoreapp3.0\UsingEventsAndLambdaExp.pdb
+E:\MyPrograms\AdvancedCSharpSolution\UsingEventsAndLambdaExp\obj\Debug\netcoreapp3.0\UsingEventsAndLambdaExp.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx3DotNetFramework\bin\Debug\EventEx3DotNetFramework.exe.config
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx3DotNetFramework\bin\Debug\EventEx3DotNetFramework.exe
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx3DotNetFramework\bin\Debug\EventEx3DotNetFramework.pdb
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx3DotNetFramework\obj\Debug\EventEx3DotNetFramework.csprojAssemblyReference.cache
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx3DotNetFramework\obj\Debug\EventEx3DotNetFramework.exe
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx3DotNetFramework\obj\Debug\EventEx3DotNetFramework.pdb

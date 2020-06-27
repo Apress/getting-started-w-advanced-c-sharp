@@ -1,0 +1,11 @@
+E:\MyPrograms\AsynchronousProgrammingSolution\CreatingTasks\bin\Debug\netcoreapp3.0\CreatingTasks.exe
+E:\MyPrograms\AsynchronousProgrammingSolution\CreatingTasks\bin\Debug\netcoreapp3.0\CreatingTasks.deps.json
+E:\MyPrograms\AsynchronousProgrammingSolution\CreatingTasks\bin\Debug\netcoreapp3.0\CreatingTasks.runtimeconfig.json
+E:\MyPrograms\AsynchronousProgrammingSolution\CreatingTasks\bin\Debug\netcoreapp3.0\CreatingTasks.runtimeconfig.dev.json
+E:\MyPrograms\AsynchronousProgrammingSolution\CreatingTasks\bin\Debug\netcoreapp3.0\CreatingTasks.dll
+E:\MyPrograms\AsynchronousProgrammingSolution\CreatingTasks\bin\Debug\netcoreapp3.0\CreatingTasks.pdb
+E:\MyPrograms\AsynchronousProgrammingSolution\CreatingTasks\obj\Debug\netcoreapp3.0\CreatingTasks.csprojAssemblyReference.cache
+E:\MyPrograms\AsynchronousProgrammingSolution\CreatingTasks\obj\Debug\netcoreapp3.0\CreatingTasks.AssemblyInfoInputs.cache
+E:\MyPrograms\AsynchronousProgrammingSolution\CreatingTasks\obj\Debug\netcoreapp3.0\CreatingTasks.AssemblyInfo.cs
+E:\MyPrograms\AsynchronousProgrammingSolution\CreatingTasks\obj\Debug\netcoreapp3.0\CreatingTasks.dll
+E:\MyPrograms\AsynchronousProgrammingSolution\CreatingTasks\obj\Debug\netcoreapp3.0\CreatingTasks.pdb

@@ -1,0 +1,10 @@
+E:\MyPrograms\AdvancedCSharpSolution\UsingTuplesInLambdaExp\bin\Debug\netcoreapp3.0\UsingTuplesInLambdaExp.exe
+E:\MyPrograms\AdvancedCSharpSolution\UsingTuplesInLambdaExp\bin\Debug\netcoreapp3.0\UsingTuplesInLambdaExp.deps.json
+E:\MyPrograms\AdvancedCSharpSolution\UsingTuplesInLambdaExp\bin\Debug\netcoreapp3.0\UsingTuplesInLambdaExp.runtimeconfig.json
+E:\MyPrograms\AdvancedCSharpSolution\UsingTuplesInLambdaExp\bin\Debug\netcoreapp3.0\UsingTuplesInLambdaExp.runtimeconfig.dev.json
+E:\MyPrograms\AdvancedCSharpSolution\UsingTuplesInLambdaExp\bin\Debug\netcoreapp3.0\UsingTuplesInLambdaExp.dll
+E:\MyPrograms\AdvancedCSharpSolution\UsingTuplesInLambdaExp\bin\Debug\netcoreapp3.0\UsingTuplesInLambdaExp.pdb
+E:\MyPrograms\AdvancedCSharpSolution\UsingTuplesInLambdaExp\obj\Debug\netcoreapp3.0\UsingTuplesInLambdaExp.AssemblyInfoInputs.cache
+E:\MyPrograms\AdvancedCSharpSolution\UsingTuplesInLambdaExp\obj\Debug\netcoreapp3.0\UsingTuplesInLambdaExp.AssemblyInfo.cs
+E:\MyPrograms\AdvancedCSharpSolution\UsingTuplesInLambdaExp\obj\Debug\netcoreapp3.0\UsingTuplesInLambdaExp.dll
+E:\MyPrograms\AdvancedCSharpSolution\UsingTuplesInLambdaExp\obj\Debug\netcoreapp3.0\UsingTuplesInLambdaExp.pdb

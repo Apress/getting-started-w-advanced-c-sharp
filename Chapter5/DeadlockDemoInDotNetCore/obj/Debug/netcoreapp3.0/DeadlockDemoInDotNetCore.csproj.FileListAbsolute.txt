@@ -1,0 +1,10 @@
+E:\MyPrograms\ThreadProgrammingSolution\DeadlockDemoInDotNetCore\bin\Debug\netcoreapp3.0\DeadlockDemoInDotNetCore.exe
+E:\MyPrograms\ThreadProgrammingSolution\DeadlockDemoInDotNetCore\bin\Debug\netcoreapp3.0\DeadlockDemoInDotNetCore.deps.json
+E:\MyPrograms\ThreadProgrammingSolution\DeadlockDemoInDotNetCore\bin\Debug\netcoreapp3.0\DeadlockDemoInDotNetCore.runtimeconfig.json
+E:\MyPrograms\ThreadProgrammingSolution\DeadlockDemoInDotNetCore\bin\Debug\netcoreapp3.0\DeadlockDemoInDotNetCore.runtimeconfig.dev.json
+E:\MyPrograms\ThreadProgrammingSolution\DeadlockDemoInDotNetCore\bin\Debug\netcoreapp3.0\DeadlockDemoInDotNetCore.dll
+E:\MyPrograms\ThreadProgrammingSolution\DeadlockDemoInDotNetCore\bin\Debug\netcoreapp3.0\DeadlockDemoInDotNetCore.pdb
+E:\MyPrograms\ThreadProgrammingSolution\DeadlockDemoInDotNetCore\obj\Debug\netcoreapp3.0\DeadlockDemoInDotNetCore.AssemblyInfoInputs.cache
+E:\MyPrograms\ThreadProgrammingSolution\DeadlockDemoInDotNetCore\obj\Debug\netcoreapp3.0\DeadlockDemoInDotNetCore.AssemblyInfo.cs
+E:\MyPrograms\ThreadProgrammingSolution\DeadlockDemoInDotNetCore\obj\Debug\netcoreapp3.0\DeadlockDemoInDotNetCore.dll
+E:\MyPrograms\ThreadProgrammingSolution\DeadlockDemoInDotNetCore\obj\Debug\netcoreapp3.0\DeadlockDemoInDotNetCore.pdb

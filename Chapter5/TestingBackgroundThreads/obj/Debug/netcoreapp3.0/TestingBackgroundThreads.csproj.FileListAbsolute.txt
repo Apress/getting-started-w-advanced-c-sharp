@@ -1,0 +1,11 @@
+E:\MyPrograms\ThreadProgrammingSolution\TestingBackgroundThreads\bin\Debug\netcoreapp3.0\TestingBackgroundThreads.exe
+E:\MyPrograms\ThreadProgrammingSolution\TestingBackgroundThreads\bin\Debug\netcoreapp3.0\TestingBackgroundThreads.deps.json
+E:\MyPrograms\ThreadProgrammingSolution\TestingBackgroundThreads\bin\Debug\netcoreapp3.0\TestingBackgroundThreads.runtimeconfig.json
+E:\MyPrograms\ThreadProgrammingSolution\TestingBackgroundThreads\bin\Debug\netcoreapp3.0\TestingBackgroundThreads.runtimeconfig.dev.json
+E:\MyPrograms\ThreadProgrammingSolution\TestingBackgroundThreads\bin\Debug\netcoreapp3.0\TestingBackgroundThreads.dll
+E:\MyPrograms\ThreadProgrammingSolution\TestingBackgroundThreads\bin\Debug\netcoreapp3.0\TestingBackgroundThreads.pdb
+E:\MyPrograms\ThreadProgrammingSolution\TestingBackgroundThreads\obj\Debug\netcoreapp3.0\TestingBackgroundThreads.AssemblyInfoInputs.cache
+E:\MyPrograms\ThreadProgrammingSolution\TestingBackgroundThreads\obj\Debug\netcoreapp3.0\TestingBackgroundThreads.AssemblyInfo.cs
+E:\MyPrograms\ThreadProgrammingSolution\TestingBackgroundThreads\obj\Debug\netcoreapp3.0\TestingBackgroundThreads.dll
+E:\MyPrograms\ThreadProgrammingSolution\TestingBackgroundThreads\obj\Debug\netcoreapp3.0\TestingBackgroundThreads.pdb
+E:\MyPrograms\ThreadProgrammingSolution\TestingBackgroundThreads\obj\Debug\netcoreapp3.0\TestingBackgroundThreads.csprojAssemblyReference.cache

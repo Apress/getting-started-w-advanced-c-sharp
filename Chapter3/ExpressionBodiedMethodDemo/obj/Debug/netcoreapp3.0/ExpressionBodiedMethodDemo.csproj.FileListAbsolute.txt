@@ -1,0 +1,11 @@
+E:\MyPrograms\AdvancedCSharpSolution\ExpressionBodiedMethodDemo\bin\Debug\netcoreapp3.0\ExpressionBodiedMethodDemo.exe
+E:\MyPrograms\AdvancedCSharpSolution\ExpressionBodiedMethodDemo\bin\Debug\netcoreapp3.0\ExpressionBodiedMethodDemo.deps.json
+E:\MyPrograms\AdvancedCSharpSolution\ExpressionBodiedMethodDemo\bin\Debug\netcoreapp3.0\ExpressionBodiedMethodDemo.runtimeconfig.json
+E:\MyPrograms\AdvancedCSharpSolution\ExpressionBodiedMethodDemo\bin\Debug\netcoreapp3.0\ExpressionBodiedMethodDemo.runtimeconfig.dev.json
+E:\MyPrograms\AdvancedCSharpSolution\ExpressionBodiedMethodDemo\bin\Debug\netcoreapp3.0\ExpressionBodiedMethodDemo.dll
+E:\MyPrograms\AdvancedCSharpSolution\ExpressionBodiedMethodDemo\bin\Debug\netcoreapp3.0\ExpressionBodiedMethodDemo.pdb
+E:\MyPrograms\AdvancedCSharpSolution\ExpressionBodiedMethodDemo\obj\Debug\netcoreapp3.0\ExpressionBodiedMethodDemo.csprojAssemblyReference.cache
+E:\MyPrograms\AdvancedCSharpSolution\ExpressionBodiedMethodDemo\obj\Debug\netcoreapp3.0\ExpressionBodiedMethodDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\AdvancedCSharpSolution\ExpressionBodiedMethodDemo\obj\Debug\netcoreapp3.0\ExpressionBodiedMethodDemo.AssemblyInfo.cs
+E:\MyPrograms\AdvancedCSharpSolution\ExpressionBodiedMethodDemo\obj\Debug\netcoreapp3.0\ExpressionBodiedMethodDemo.dll
+E:\MyPrograms\AdvancedCSharpSolution\ExpressionBodiedMethodDemo\obj\Debug\netcoreapp3.0\ExpressionBodiedMethodDemo.pdb

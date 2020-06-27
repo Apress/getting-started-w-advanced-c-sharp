@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Expression_BodiedPropertiesDemo/1.0.0": {
+        "runtime": {
+          "Expression_BodiedPropertiesDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Expression_BodiedPropertiesDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

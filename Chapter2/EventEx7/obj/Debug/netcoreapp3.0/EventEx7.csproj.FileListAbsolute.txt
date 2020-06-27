@@ -1,0 +1,11 @@
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx7\bin\Debug\netcoreapp3.0\EventEx7.exe
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx7\bin\Debug\netcoreapp3.0\EventEx7.deps.json
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx7\bin\Debug\netcoreapp3.0\EventEx7.runtimeconfig.json
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx7\bin\Debug\netcoreapp3.0\EventEx7.runtimeconfig.dev.json
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx7\bin\Debug\netcoreapp3.0\EventEx7.dll
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx7\bin\Debug\netcoreapp3.0\EventEx7.pdb
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx7\obj\Debug\netcoreapp3.0\EventEx7.csprojAssemblyReference.cache
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx7\obj\Debug\netcoreapp3.0\EventEx7.AssemblyInfoInputs.cache
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx7\obj\Debug\netcoreapp3.0\EventEx7.AssemblyInfo.cs
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx7\obj\Debug\netcoreapp3.0\EventEx7.dll
+E:\MyPrograms\DotNetCoreSolutions\EventsSolution\EventEx7\obj\Debug\netcoreapp3.0\EventEx7.pdb

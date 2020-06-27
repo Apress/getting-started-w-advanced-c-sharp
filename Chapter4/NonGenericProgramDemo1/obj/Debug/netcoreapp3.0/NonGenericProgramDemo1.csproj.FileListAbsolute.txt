@@ -1,0 +1,11 @@
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\NonGenericProgramDemo1\bin\Debug\netcoreapp3.0\NonGenericProgramDemo1.exe
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\NonGenericProgramDemo1\bin\Debug\netcoreapp3.0\NonGenericProgramDemo1.deps.json
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\NonGenericProgramDemo1\bin\Debug\netcoreapp3.0\NonGenericProgramDemo1.runtimeconfig.json
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\NonGenericProgramDemo1\bin\Debug\netcoreapp3.0\NonGenericProgramDemo1.runtimeconfig.dev.json
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\NonGenericProgramDemo1\bin\Debug\netcoreapp3.0\NonGenericProgramDemo1.dll
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\NonGenericProgramDemo1\bin\Debug\netcoreapp3.0\NonGenericProgramDemo1.pdb
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\NonGenericProgramDemo1\obj\Debug\netcoreapp3.0\NonGenericProgramDemo1.AssemblyInfoInputs.cache
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\NonGenericProgramDemo1\obj\Debug\netcoreapp3.0\NonGenericProgramDemo1.AssemblyInfo.cs
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\NonGenericProgramDemo1\obj\Debug\netcoreapp3.0\NonGenericProgramDemo1.dll
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\NonGenericProgramDemo1\obj\Debug\netcoreapp3.0\NonGenericProgramDemo1.pdb
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\NonGenericProgramDemo1\obj\Debug\netcoreapp3.0\NonGenericProgramDemo1.csprojAssemblyReference.cache

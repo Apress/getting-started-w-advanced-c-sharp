@@ -1,0 +1,11 @@
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\TestingStaticData\bin\Debug\netcoreapp3.0\TestingStaticData.exe
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\TestingStaticData\bin\Debug\netcoreapp3.0\TestingStaticData.deps.json
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\TestingStaticData\bin\Debug\netcoreapp3.0\TestingStaticData.runtimeconfig.json
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\TestingStaticData\bin\Debug\netcoreapp3.0\TestingStaticData.runtimeconfig.dev.json
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\TestingStaticData\bin\Debug\netcoreapp3.0\TestingStaticData.dll
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\TestingStaticData\bin\Debug\netcoreapp3.0\TestingStaticData.pdb
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\TestingStaticData\obj\Debug\netcoreapp3.0\TestingStaticData.csprojAssemblyReference.cache
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\TestingStaticData\obj\Debug\netcoreapp3.0\TestingStaticData.AssemblyInfoInputs.cache
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\TestingStaticData\obj\Debug\netcoreapp3.0\TestingStaticData.AssemblyInfo.cs
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\TestingStaticData\obj\Debug\netcoreapp3.0\TestingStaticData.dll
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\TestingStaticData\obj\Debug\netcoreapp3.0\TestingStaticData.pdb

@@ -1,0 +1,11 @@
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\DelegateExample2\bin\Debug\netcoreapp3.0\DelegateExample2.exe
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\DelegateExample2\bin\Debug\netcoreapp3.0\DelegateExample2.deps.json
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\DelegateExample2\bin\Debug\netcoreapp3.0\DelegateExample2.runtimeconfig.json
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\DelegateExample2\bin\Debug\netcoreapp3.0\DelegateExample2.runtimeconfig.dev.json
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\DelegateExample2\bin\Debug\netcoreapp3.0\DelegateExample2.dll
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\DelegateExample2\bin\Debug\netcoreapp3.0\DelegateExample2.pdb
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\DelegateExample2\obj\Debug\netcoreapp3.0\DelegateExample2.AssemblyInfoInputs.cache
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\DelegateExample2\obj\Debug\netcoreapp3.0\DelegateExample2.AssemblyInfo.cs
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\DelegateExample2\obj\Debug\netcoreapp3.0\DelegateExample2.dll
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\DelegateExample2\obj\Debug\netcoreapp3.0\DelegateExample2.pdb
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\DelegateExample2\obj\Debug\netcoreapp3.0\DelegateExample2.csprojAssemblyReference.cache

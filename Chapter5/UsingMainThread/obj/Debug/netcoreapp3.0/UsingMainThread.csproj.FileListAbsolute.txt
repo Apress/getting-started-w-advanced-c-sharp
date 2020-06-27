@@ -1,0 +1,11 @@
+E:\MyPrograms\ThreadProgrammingSolution\UsingMainThread\bin\Debug\netcoreapp3.0\UsingMainThread.exe
+E:\MyPrograms\ThreadProgrammingSolution\UsingMainThread\bin\Debug\netcoreapp3.0\UsingMainThread.deps.json
+E:\MyPrograms\ThreadProgrammingSolution\UsingMainThread\bin\Debug\netcoreapp3.0\UsingMainThread.runtimeconfig.json
+E:\MyPrograms\ThreadProgrammingSolution\UsingMainThread\bin\Debug\netcoreapp3.0\UsingMainThread.runtimeconfig.dev.json
+E:\MyPrograms\ThreadProgrammingSolution\UsingMainThread\bin\Debug\netcoreapp3.0\UsingMainThread.dll
+E:\MyPrograms\ThreadProgrammingSolution\UsingMainThread\bin\Debug\netcoreapp3.0\UsingMainThread.pdb
+E:\MyPrograms\ThreadProgrammingSolution\UsingMainThread\obj\Debug\netcoreapp3.0\UsingMainThread.csprojAssemblyReference.cache
+E:\MyPrograms\ThreadProgrammingSolution\UsingMainThread\obj\Debug\netcoreapp3.0\UsingMainThread.AssemblyInfoInputs.cache
+E:\MyPrograms\ThreadProgrammingSolution\UsingMainThread\obj\Debug\netcoreapp3.0\UsingMainThread.AssemblyInfo.cs
+E:\MyPrograms\ThreadProgrammingSolution\UsingMainThread\obj\Debug\netcoreapp3.0\UsingMainThread.dll
+E:\MyPrograms\ThreadProgrammingSolution\UsingMainThread\obj\Debug\netcoreapp3.0\UsingMainThread.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "SynchronizationDemoInDotNetCore/1.0.0": {
+        "runtime": {
+          "SynchronizationDemoInDotNetCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SynchronizationDemoInDotNetCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

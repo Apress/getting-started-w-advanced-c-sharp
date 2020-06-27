@@ -1,0 +1,10 @@
+E:\MyPrograms\ThreadProgrammingSolution\ThreadProgrammingEx4\bin\Debug\netcoreapp3.0\ThreadProgrammingEx4.exe
+E:\MyPrograms\ThreadProgrammingSolution\ThreadProgrammingEx4\bin\Debug\netcoreapp3.0\ThreadProgrammingEx4.deps.json
+E:\MyPrograms\ThreadProgrammingSolution\ThreadProgrammingEx4\bin\Debug\netcoreapp3.0\ThreadProgrammingEx4.runtimeconfig.json
+E:\MyPrograms\ThreadProgrammingSolution\ThreadProgrammingEx4\bin\Debug\netcoreapp3.0\ThreadProgrammingEx4.runtimeconfig.dev.json
+E:\MyPrograms\ThreadProgrammingSolution\ThreadProgrammingEx4\bin\Debug\netcoreapp3.0\ThreadProgrammingEx4.dll
+E:\MyPrograms\ThreadProgrammingSolution\ThreadProgrammingEx4\bin\Debug\netcoreapp3.0\ThreadProgrammingEx4.pdb
+E:\MyPrograms\ThreadProgrammingSolution\ThreadProgrammingEx4\obj\Debug\netcoreapp3.0\ThreadProgrammingEx4.AssemblyInfoInputs.cache
+E:\MyPrograms\ThreadProgrammingSolution\ThreadProgrammingEx4\obj\Debug\netcoreapp3.0\ThreadProgrammingEx4.AssemblyInfo.cs
+E:\MyPrograms\ThreadProgrammingSolution\ThreadProgrammingEx4\obj\Debug\netcoreapp3.0\ThreadProgrammingEx4.dll
+E:\MyPrograms\ThreadProgrammingSolution\ThreadProgrammingEx4\obj\Debug\netcoreapp3.0\ThreadProgrammingEx4.pdb

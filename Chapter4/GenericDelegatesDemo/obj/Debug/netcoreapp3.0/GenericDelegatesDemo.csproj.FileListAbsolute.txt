@@ -1,0 +1,10 @@
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\GenericDelegatesDemo\bin\Debug\netcoreapp3.0\GenericDelegatesDemo.exe
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\GenericDelegatesDemo\bin\Debug\netcoreapp3.0\GenericDelegatesDemo.deps.json
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\GenericDelegatesDemo\bin\Debug\netcoreapp3.0\GenericDelegatesDemo.runtimeconfig.json
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\GenericDelegatesDemo\bin\Debug\netcoreapp3.0\GenericDelegatesDemo.runtimeconfig.dev.json
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\GenericDelegatesDemo\bin\Debug\netcoreapp3.0\GenericDelegatesDemo.dll
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\GenericDelegatesDemo\bin\Debug\netcoreapp3.0\GenericDelegatesDemo.pdb
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\GenericDelegatesDemo\obj\Debug\netcoreapp3.0\GenericDelegatesDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\GenericDelegatesDemo\obj\Debug\netcoreapp3.0\GenericDelegatesDemo.AssemblyInfo.cs
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\GenericDelegatesDemo\obj\Debug\netcoreapp3.0\GenericDelegatesDemo.dll
+E:\MyPrograms\DotNetCoreSolutions\GenericProgrammingSolution\GenericDelegatesDemo\obj\Debug\netcoreapp3.0\GenericDelegatesDemo.pdb

@@ -1,0 +1,11 @@
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\MulticastDelegateExample1\obj\Debug\netcoreapp3.0\MulticastDelegateExample1.AssemblyInfoInputs.cache
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\MulticastDelegateExample1\obj\Debug\netcoreapp3.0\MulticastDelegateExample1.AssemblyInfo.cs
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\MulticastDelegateExample1\bin\Debug\netcoreapp3.0\MulticastDelegateExample1.exe
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\MulticastDelegateExample1\bin\Debug\netcoreapp3.0\MulticastDelegateExample1.deps.json
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\MulticastDelegateExample1\bin\Debug\netcoreapp3.0\MulticastDelegateExample1.runtimeconfig.json
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\MulticastDelegateExample1\bin\Debug\netcoreapp3.0\MulticastDelegateExample1.runtimeconfig.dev.json
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\MulticastDelegateExample1\bin\Debug\netcoreapp3.0\MulticastDelegateExample1.dll
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\MulticastDelegateExample1\bin\Debug\netcoreapp3.0\MulticastDelegateExample1.pdb
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\MulticastDelegateExample1\obj\Debug\netcoreapp3.0\MulticastDelegateExample1.dll
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\MulticastDelegateExample1\obj\Debug\netcoreapp3.0\MulticastDelegateExample1.pdb
+E:\MyPrograms\DotNetCoreSolutions\DelegatesSolution\MulticastDelegateExample1\obj\Debug\netcoreapp3.0\MulticastDelegateExample1.csprojAssemblyReference.cache

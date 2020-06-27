@@ -1,0 +1,11 @@
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingWebClient\bin\Debug\netcoreapp3.0\UsingWebClient.exe
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingWebClient\bin\Debug\netcoreapp3.0\UsingWebClient.deps.json
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingWebClient\bin\Debug\netcoreapp3.0\UsingWebClient.runtimeconfig.json
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingWebClient\bin\Debug\netcoreapp3.0\UsingWebClient.runtimeconfig.dev.json
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingWebClient\bin\Debug\netcoreapp3.0\UsingWebClient.dll
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingWebClient\bin\Debug\netcoreapp3.0\UsingWebClient.pdb
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingWebClient\obj\Debug\netcoreapp3.0\UsingWebClient.csprojAssemblyReference.cache
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingWebClient\obj\Debug\netcoreapp3.0\UsingWebClient.AssemblyInfoInputs.cache
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingWebClient\obj\Debug\netcoreapp3.0\UsingWebClient.AssemblyInfo.cs
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingWebClient\obj\Debug\netcoreapp3.0\UsingWebClient.dll
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingWebClient\obj\Debug\netcoreapp3.0\UsingWebClient.pdb

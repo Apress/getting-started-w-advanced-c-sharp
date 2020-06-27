@@ -1,0 +1,11 @@
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAPDemo2\bin\Debug\netcoreapp3.0\UsingTAPDemo2.exe
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAPDemo2\bin\Debug\netcoreapp3.0\UsingTAPDemo2.deps.json
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAPDemo2\bin\Debug\netcoreapp3.0\UsingTAPDemo2.runtimeconfig.json
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAPDemo2\bin\Debug\netcoreapp3.0\UsingTAPDemo2.runtimeconfig.dev.json
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAPDemo2\bin\Debug\netcoreapp3.0\UsingTAPDemo2.dll
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAPDemo2\bin\Debug\netcoreapp3.0\UsingTAPDemo2.pdb
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAPDemo2\obj\Debug\netcoreapp3.0\UsingTAPDemo2.AssemblyInfoInputs.cache
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAPDemo2\obj\Debug\netcoreapp3.0\UsingTAPDemo2.AssemblyInfo.cs
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAPDemo2\obj\Debug\netcoreapp3.0\UsingTAPDemo2.dll
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAPDemo2\obj\Debug\netcoreapp3.0\UsingTAPDemo2.pdb
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingTAPDemo2\obj\Debug\netcoreapp3.0\UsingTAPDemo2.csprojAssemblyReference.cache

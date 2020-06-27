@@ -1,0 +1,10 @@
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingThreadPool\bin\Debug\netcoreapp3.0\UsingThreadPool.exe
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingThreadPool\bin\Debug\netcoreapp3.0\UsingThreadPool.deps.json
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingThreadPool\bin\Debug\netcoreapp3.0\UsingThreadPool.runtimeconfig.json
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingThreadPool\bin\Debug\netcoreapp3.0\UsingThreadPool.runtimeconfig.dev.json
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingThreadPool\bin\Debug\netcoreapp3.0\UsingThreadPool.dll
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingThreadPool\bin\Debug\netcoreapp3.0\UsingThreadPool.pdb
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingThreadPool\obj\Debug\netcoreapp3.0\UsingThreadPool.AssemblyInfoInputs.cache
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingThreadPool\obj\Debug\netcoreapp3.0\UsingThreadPool.AssemblyInfo.cs
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingThreadPool\obj\Debug\netcoreapp3.0\UsingThreadPool.dll
+E:\MyPrograms\AsynchronousProgrammingSolution\UsingThreadPool\obj\Debug\netcoreapp3.0\UsingThreadPool.pdb
