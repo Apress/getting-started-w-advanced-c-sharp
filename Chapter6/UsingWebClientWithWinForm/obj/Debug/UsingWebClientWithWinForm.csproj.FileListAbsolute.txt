@@ -1,0 +1,8 @@
+C:\Feluda_June12,2017Onwards\MyBooks\Apress\ReviewProcess-AdvancedProgramminginC#\AdvC#CodesForApress\Chapter6\UsingWebClientWithWinForm\obj\Debug\UsingWebClentWithWinForm.Properties.Resources.resources
+C:\Feluda_June12,2017Onwards\MyBooks\Apress\ReviewProcess-AdvancedProgramminginC#\AdvC#CodesForApress\Chapter6\UsingWebClientWithWinForm\obj\Debug\UsingWebClientWithWinForm.csproj.GenerateResource.cache
+C:\Feluda_June12,2017Onwards\MyBooks\Apress\ReviewProcess-AdvancedProgramminginC#\AdvC#CodesForApress\Chapter6\UsingWebClientWithWinForm\obj\Debug\UsingWebClentWithWinForm.exe
+C:\Feluda_June12,2017Onwards\MyBooks\Apress\ReviewProcess-AdvancedProgramminginC#\AdvC#CodesForApress\Chapter6\UsingWebClientWithWinForm\obj\Debug\UsingWebClentWithWinForm.pdb
+C:\Feluda_June12,2017Onwards\MyBooks\Apress\ReviewProcess-AdvancedProgramminginC#\AdvC#CodesForApress\Chapter6\UsingWebClientWithWinForm\bin\Debug\UsingWebClentWithWinForm.exe.config
+C:\Feluda_June12,2017Onwards\MyBooks\Apress\ReviewProcess-AdvancedProgramminginC#\AdvC#CodesForApress\Chapter6\UsingWebClientWithWinForm\bin\Debug\UsingWebClentWithWinForm.exe
+C:\Feluda_June12,2017Onwards\MyBooks\Apress\ReviewProcess-AdvancedProgramminginC#\AdvC#CodesForApress\Chapter6\UsingWebClientWithWinForm\bin\Debug\UsingWebClentWithWinForm.pdb
+C:\Feluda_June12,2017Onwards\MyBooks\Apress\ReviewProcess-AdvancedProgramminginC#\AdvC#CodesForApress\Chapter6\UsingWebClientWithWinForm\obj\Debug\UsingWebClientWithWinForm.Form1.resources
